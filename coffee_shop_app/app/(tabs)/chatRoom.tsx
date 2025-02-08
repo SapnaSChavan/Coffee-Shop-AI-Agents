@@ -47,10 +47,10 @@ const ChatRoom = () => {
       setIsTyping(false)
       setMessages([...inputMessages, responseMessage])
       if (responseMessage) {
-        if (responseMessage,memory) {
+        if (responseMessage.memory) {
           if (responseMessage.memory.order) {
             emptyCart();
-            responseMessage,memory.order.forEach((item:any) => {
+            responseMessage.memory.order.forEach((item:any) => {
             addToCart(item.item, item.quantity)
           });
           }

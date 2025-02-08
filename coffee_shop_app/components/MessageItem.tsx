@@ -16,7 +16,7 @@ const MessageItem = ({message}:Message) => {
             <View className='w-80%'>
                 <View className='self-end p-2 rounded-xl bg-white border border-neutral-200'>
                     <Text 
-                        style = {{fontSize: heightPercentageToDP(1.8)}}>
+                        style = {{fontSize: heightPercentageToDP(1.7)}}>
                         {message?.content}
                     </Text>
                 </View>
@@ -31,7 +31,7 @@ const MessageItem = ({message}:Message) => {
         >
             <View className='flex self-start p-2 px-4 rounded-2xl bg-indigo-100 border border-indigo-200'>
                 <Text
-                    style = {{fontSize: heightPercentageToDP(1.9)}}
+                    style = {{fontSize: heightPercentageToDP(1.7)}}
                 >
                     {message?.content}
                 </Text>

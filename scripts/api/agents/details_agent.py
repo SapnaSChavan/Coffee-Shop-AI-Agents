@@ -48,7 +48,7 @@ class DetailsAgent():
         Using the contexts below, answer the query.
 
         Contexts: {source_knowledge}
-
+        
         Query: {user_message}
         """
 
