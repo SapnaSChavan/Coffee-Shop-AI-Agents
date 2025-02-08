@@ -90,7 +90,6 @@ The chatbot leverages the **Runpod API** for AI-powered interactions:
 - Messages are structured and passed to the Runpod API.
 - Responses are dynamically added to the chat interface.
 
----
 
 ## Setup and Installation
 
@@ -164,4 +163,4 @@ I welcome contributions from the community. Follow these steps:
 
 ## License
 
--This project is licensed under the MIT License. See the LICENSE file for details.
+-This project is licensed under the MIT License. See the LICENSE file for details
