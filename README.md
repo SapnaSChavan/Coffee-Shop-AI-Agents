@@ -167,6 +167,10 @@ I welcome contributions from the community. Follow these steps:
 - Enhanced AI recommendations based on user purchase history.
 - Multi-language support for chatbot interactions.
 
+## Credits
+@abdullahtarek 
+https://www.youtube.com/watch?v=KyQKTJhSIak
+
 ## License
 
 -This project is licensed under the MIT License. See the LICENSE file for details
