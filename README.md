@@ -6,6 +6,12 @@ Welcome to the Merry's Way Coffee GitHub repository. This project is an innovati
 
 ![Architecture Diagram](architecture/Coffee-Shop-AI-Agents-Architecture.png)
 
+
+## Application Demo
+
+![Demo of Coffee Shop Application](demo/CafeBot-Demo.gif)
+
+
 **1. Development and Deployment Workflow**
 
     Data Sources:
